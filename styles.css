@@ -1,0 +1,37 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+@namespace ah "com.hulstkamp.flex.spark.components.*";
+
+/* Styling of a NiceToolTip */
+ah|NiceToolTip {
+	color: "#f8f8f8";
+	chromeColor: "0x20a0c0";
+	fontSize: 11px;
+	maxWidth: 100px;
+}
+
+/*
+Custom css class that gest applied, when the styleName property for
+tooltip is set to courierYellow
+*/
+ah|NiceToolTip.courierYellow {
+	color: "0x404040";
+	chromeColor: "0xffc000";
+	fontSize: 11;
+	fontFamily: "Courier New";
+}
+
+
+ah|NiceToolTip s|Label {
+	color: "#f8f8f8";
+	chromeColor: "0x20a0c0";
+	fontSize: 11px;
+	fontWeight: "bold";
+}
+
+ah|NiceToolTip.errorTip {
+	color: "#f8f8f8";
+	chromeColor: "0xe02010";
+}
+

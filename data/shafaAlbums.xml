@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pluggedInRecords>
+	<instrumental>data/shafaInstrumental.xml</instrumental>
+	<vocal>data/shafaVocal.xml</vocal>
+	<videosByFans>data/youtubeXML.xml</videosByFans>
+	<album>
+		<albumArt>assets/Pluggedin+Records+Shafa360.jpg</albumArt>
+		<albumName>battle without honour and humanity</albumName>	
+		<artist>Tomoyasu Hotei</artist>	
+		<year>2007</year>
+		<songs>
+			<track>
+				<trackArt>assets/Pluggedin+Records+Shafa360.jpg</trackArt>
+				<trackName>Ajnabi Duniya</trackName>
+				<trackURL>http://www.amninder.com/sound/shafa/Ajnabi%20Duniya.mp3</trackURL>
+				<lyrics>no lyrics for Ajnabi Duniya</lyrics>
+				<buy>
+					<itunes>NA</itunes>
+					<cdbaby>NA</cdbaby>
+					<amazon>NA</amazon>
+					<audiosparx>http://www.audiosparx.com/sa/summary/play.cfm/sound_iid.425211</audiosparx>
+				</buy>
+			</track>
+			
+			<track>
+				<trackArt>assets/Pluggedin+Records+Shafa360.jpg</trackArt>
+				<trackName>Chamdi Ishqe Di</trackName>
+				<trackURL>http://www.amninder.com/sound/shafa/Chamdi%20Ishqe%20di.mp3</trackURL>
+				<lyrics>no lyrics for Chamdi Ishqe Di</lyrics>
+				<buy>
+					<itunes>NA</itunes>
+					<cdbaby>NA</cdbaby>
+					<amazon>NA</amazon>
+					<audiosparx>http://www.audiosparx.com/sa/summary/play.cfm/sound_iid.425211</audiosparx>
+				</buy>
+			</track>
+			
+			<track>
+				<trackArt>assets/Pluggedin+Records+Shafa360.jpg</trackArt>
+				<trackName>Chanda</trackName>
+				<trackURL>http://www.amninder.com/sound/shafa/Chanda.mp3</trackURL>
+				<lyrics>no lyrics for Chanda</lyrics>
+				<buy>
+					<itunes>NA</itunes>
+					<cdbaby>NA</cdbaby>
+					<amazon>NA</amazon>
+					<audiosparx>http://www.audiosparx.com/sa/summary/play.cfm/sound_iid.425211</audiosparx>
+				</buy>
+			</track>
+			
+			<track>
+				<trackArt>assets/Pluggedin+Records+Shafa360.jpg</trackArt>
+				<trackName>Dil Diyyaan Vandiye</trackName>
+				<trackURL>http://www.amninder.com/sound/shafa/Dil%20Diyaan%20Vandiye.mp3</trackURL>
+				<lyrics>no lyrics for Dil Diyyaan Vandiye</lyrics>
+				<buy>
+					<itunes>NA</itunes>
+					<cdbaby>NA</cdbaby>
+					<amazon>NA</amazon>
+					<audiosparx>http://www.audiosparx.com/sa/summary/play.cfm/sound_iid.425211</audiosparx>
+				</buy>
+			</track>
+			
+			<track>
+				<trackArt>assets/Pluggedin+Records+Shafa360.jpg</trackArt>
+				<trackName>Dil-E-Heer</trackName>
+				<trackURL>http://www.amninder.com/sound/shafa/Dil-e-Heer.mp3</trackURL>
+				<lyrics>no lyrics for Dil-E-Heer</lyrics>
+				<buy>
+					<itunes>NA</itunes>
+					<cdbaby>NA</cdbaby>
+					<amazon>NA</amazon>
+					<audiosparx>http://www.audiosparx.com/sa/summary/play.cfm/sound_iid.425211</audiosparx>
+				</buy>
+			</track>
+			
+			<track>
+				<trackArt>assets/Pluggedin+Records+Shafa360.jpg</trackArt>
+				<trackName>Dosti</trackName>
+				<trackURL>http://www.amninder.com/sound/shafa/Dosti.mp3</trackURL>
+				<lyrics>no lyrics for Dosti</lyrics>
+				<buy>
+					<itunes>NA</itunes>
+					<cdbaby>NA</cdbaby>
+					<amazon>NA</amazon>
+					<audiosparx>http://www.audiosparx.com/sa/summary/play.cfm/sound_iid.425211</audiosparx>
+				</buy>
+			</track>
+			
+			<track>
+				<trackArt>assets/Pluggedin+Records+Shafa360.jpg</trackArt>
+				<trackName>Maaye</trackName>
+				<trackURL>http://www.amninder.com/sound/tomoyasu_hotei/Battle4.mp3</trackURL>
+				<lyrics>no lyrics for Maaye</lyrics>
+				<buy>
+					<itunes>NA</itunes>
+					<cdbaby>NA</cdbaby>
+					<amazon>NA</amazon>
+					<audiosparx>http://www.audiosparx.com/sa/summary/play.cfm/sound_iid.425211</audiosparx>
+				</buy>
+			</track>
+			
+			<track>
+				<trackArt>assets/Pluggedin+Records+Shafa360.jpg</trackArt>
+				<trackName>Main Kaun</trackName>
+				<trackURL>http://www.amninder.com/sound/shafa/Maaye.mp3</trackURL>
+				<lyrics>no lyrics for Main Kaun</lyrics>
+				<buy>
+					<itunes>NA</itunes>
+					<cdbaby>NA</cdbaby>
+					<amazon>NA</amazon>
+					<audiosparx>http://www.audiosparx.com/sa/summary/play.cfm/sound_iid.425211</audiosparx>
+				</buy>
+			</track>
+			
+			<track>
+				<trackArt>assets/Pluggedin+Records+Shafa360.jpg</trackArt>
+				<trackName>Sun Ve Yaara</trackName>
+				<trackURL>http://www.amninder.com/sound/tomoyasu_hotei/Battle4.mp3</trackURL>
+				<lyrics>no lyrics for Sun Ve Yaara</lyrics>
+				<buy>
+					<itunes>NA</itunes>
+					<cdbaby>NA</cdbaby>
+					<amazon>NA</amazon>
+					<audiosparx>http://www.audiosparx.com/sa/summary/play.cfm/sound_iid.425211</audiosparx>
+				</buy>
+			</track>
+			
+			<track>
+				<trackArt>assets/Pluggedin+Records+Shafa360.jpg</trackArt>
+				<trackName>Ve Haniye</trackName>
+				<trackURL>http://www.amninder.com/sound/shafa/Ve%20Haniya.mp3</trackURL>
+				<lyrics>no lyrics for Ve Haniye</lyrics>
+				<buy>
+					<itunes>NA</itunes>
+					<cdbaby>NA</cdbaby>
+					<amazon>NA</amazon>
+					<audiosparx>http://www.audiosparx.com/sa/summary/play.cfm/sound_iid.425211</audiosparx>
+				</buy>
+			</track>
+			
+			<track>
+				<trackArt>assets/Pluggedin+Records+Shafa360.jpg</trackArt>
+				<trackName>Sun ve Yaara</trackName>
+				<trackURL>http://www.amninder.com/sound/shafa/Sun%20ve%20Yaara.mp3</trackURL>
+				<lyrics>no lyrics for Ve Haniye</lyrics>
+				<buy>
+					<itunes>NA</itunes>
+					<cdbaby>NA</cdbaby>
+					<amazon>NA</amazon>
+					<audiosparx>http://www.audiosparx.com/sa/summary/play.cfm/sound_iid.425211</audiosparx>
+				</buy>
+			</track>
+			
+			<track>
+				<trackArt>assets/Pluggedin+Records+Shafa360.jpg</trackArt>
+				<trackName>Ve Haniye</trackName>
+				<trackURL>http://www.amninder.com/sound/shafa/Ve%20Haniya.mp3</trackURL>
+				<lyrics>no lyrics for Ve Haniye</lyrics>
+				<buy>
+					<itunes>NA</itunes>
+					<cdbaby>NA</cdbaby>
+					<amazon>NA</amazon>
+					<audiosparx>http://www.audiosparx.com/sa/summary/play.cfm/sound_iid.425211</audiosparx>
+				</buy>
+			</track>
+		</songs>
+	</album>
+</pluggedInRecords>

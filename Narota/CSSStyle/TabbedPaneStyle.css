@@ -1,0 +1,21 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+@namespace Components "Narota.Components.*";
+s|NavigatorContent{
+	
+}
+
+mx|TabNavigator{
+	
+}
+global
+{
+	skinClass: ClassReference("spark.skins.spark.mediaClasses.normal.PlayPauseButtonSkin");
+}
+s|VolumeBar.AudioBarPanel
+{
+	liveDragging: true;
+	skinClass: ClassReference("spark.skins.spark.mediaClasses.normal.VolumeBarSkin");
+	chrome-color: haloBlue;
+}

@@ -1,0 +1,17 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+p {
+	font-family: Times New Roman, Times, _serif;
+	font-size: 14;
+}
+
+h1 {
+	font-family: Arial, Helvetica, _sans;
+	font-size: 20;
+	font-weight: bold;
+}
+
+.bluetext {
+	color: #0000CC;
+}  

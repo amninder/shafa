@@ -1,0 +1,20 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+
+
+s|ToggleButton
+{
+	skinClass: ClassReference("spark.skins.spark.mediaClasses.normal.PlayPauseButtonSkin");
+	chrome-color: #5d5d5d;
+	corner-radius: 2;
+}
+s|ScrubBar
+{
+	liveDragging: true;
+	skinClass: ClassReference("spark.skins.spark.mediaClasses.normal.ScrubBarSkin");
+	chrome-color: black;
+}
+s|VolumeBar{
+	skinClass: ClassReference("spark.skins.spark.mediaClasses.normal.ScrubBarSki");
+}

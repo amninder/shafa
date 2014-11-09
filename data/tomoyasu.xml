@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pluggedInRecords>	
+	<album>
+		<albumArt>http://www.amninder/com/albumart/hotei.jpg</albumArt>
+		<albumName>battle without honour and humanity</albumName>	
+		<artist>Tomoyasu Hotei</artist>	
+		<year>2007</year>
+		<songs>
+			<track>
+				<trackArt>assets/hotei.jpg</trackArt>
+				<trackName>Battle Without Honour #1</trackName>
+				<trackURL>http://www.amninder.com/sound/tomoyasu_hotei/Battle.mp3 </trackURL>
+				<lyrics>no lyrics for battle without honour or humanity</lyrics>
+			</track>
+			
+			<track>
+				<trackArt>assets/hotei.jpg</trackArt>
+				<trackName>Battle Without Honour #2</trackName>
+				<trackURL>http://www.amninder.com/sound/tomoyasu_hotei/Battle2.mp3</trackURL>
+				<lyrics>no lyrics for battle without honour or humanity</lyrics>
+			</track>
+			
+			<track>
+				<trackArt>assets/hotei.jpg</trackArt>
+				<trackName>Battle Without Honour #3</trackName>
+				<trackURL>http://www.amninder.com/sound/tomoyasu_hotei/Battle3.mp3</trackURL>
+				<lyrics>no lyrics for battle without honour or humanity</lyrics>
+			</track>
+			
+			<track>
+				<trackArt>assets/hotei.jpg</trackArt>
+				<trackName>Battle Without Honour #4</trackName>
+				<trackURL>http://www.amninder.com/sound/tomoyasu_hotei/Battle4.mp3</trackURL>
+				<lyrics>no lyrics for battle without honour or humanity</lyrics>
+			</track>
+		</songs>
+	</album>
+</pluggedInRecords>

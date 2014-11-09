@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PIR>
+	<track>
+		<trackArt>assets/youtube-logo.png</trackArt>
+		<url>http://www.youtube.com/watch?v=zCKHKSzHH0Y</url>
+		<trackName>Dosti</trackName>
+	</track>
+	<track>
+		<trackArt>assets/youtube-logo.png</trackArt>
+		<url>http://www.youtube.com/watch?v=xzppQerCuLg</url>
+		<trackName>Dil-E-Heer</trackName>
+	</track>
+	<track>
+		<trackArt>assets/youtube-logo.png</trackArt>
+		<url>http://www.youtube.com/watch?v=LAUr5Y5Ya-4</url>
+		<trackName>FIFA World Cup 2010</trackName>
+	</track>
+</PIR>

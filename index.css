@@ -1,0 +1,73 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+
+@font-face{
+	src:url("../data/impact.ttf");
+	font-family: myFont;
+	embed-as-cff: true;
+}
+.myFontCFF{
+	font-size: 20;
+	font-family: myFont;
+	color: white;
+}
+mx|ToolTip{
+	background-alpha: 0.75;
+	background-color: gray;
+	color: #f4a361;
+	font-anti-alias-type:advanced;
+	font-size: 12;
+	font-grid-fit-type:subpixel;
+	corner-radius: 3;
+	chrome-color: haloBlue;
+	error-color: red;
+}
+mx|TabNavigator
+{
+	background-color: black;
+	corner-radius: 5;
+	selected-tab-text-style-name: "selectedTabStyle";
+	tab-style-name: "tabStyle";
+	chrome-color: #5d5d5d;
+	background-alpha: .75;
+	color: white;
+	border-visible: false;
+	tab-height: 25;
+	tab-width: 110;
+	font-size: 14;
+}
+s|List
+{
+	borderVisible: false;
+	contentBackgroundAlpha: 1.0;
+	contentBackgroundColor: #000000;
+}
+s|ToggleButton
+{
+	skinClass: ClassReference("spark.skins.spark.mediaClasses.normal.PlayPauseButtonSkin");
+	chrome-color: #5d5d5d;
+	
+}
+s|VolumeBar{
+	skinClass: ClassReference("spark.skins.spark.mediaClasses.normal.VolumeBarSkin");
+	chrome-color: #5d5d5d;
+}
+s|ScrubBar{
+	skinClass: ClassReference("spark.skins.spark.mediaClasses.normal.ScrubBarSkin");
+	chrome-color: #5d5d5d;
+}
+.selectedTabStyle{
+	backgroundColor: haloBlue;
+	color: white;
+	textRollOverColor: white;
+	content-background-alpha: 5.0;
+}
+.tabStyle{
+	backgroundColor: haloBlue;
+	text-roll-over-color: white;
+	roll-over-color: #0000FF;
+	cornerRadius: 5;
+	color: white;
+	background-alpha: 5.0;
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PIR>
+    <artist artistId="1">
+    	<name>Shafa</name>
+    	<logo>assets/shafa_album_art.jpg</logo>
+		<portfolio>
+		Shafa is a new composer, singer, guitarist and lyricist. Shafa's work features original, profound Hindi and Punjabi lyrics sung to melodious, soft acoustic guitar compositions bound to touch your heart and soul. Apart from the lyrical music, Shafa also creates amazing instrumental fusion music.
+		</portfolio>
+		<myspace>http://www.myspace.com/shafathesinger</myspace>
+		<facebook>http://www.facebook.com/pages/Plugged-in-Records/98552515019?v=wall&ref=search</facebook>
+		<twitter>http://www.twitter.com/shafathesinger</twitter>
+		<videoByFans>youtubeXML.xml</videoByFans>
+		<albums>
+			<albumXMLPath>http://amninder.com/xmlData/tomoyasu.xml</albumXMLPath>
+		</albums>
+    </artist>
+    <artist artistId="3">
+    	<name>Pam</name>
+    	<logo>assets/flash 4.png</logo>
+		<portfolio>Not available for Pam</portfolio>
+		<myspace>NA</myspace>
+		<facebook>NA</facebook>
+		<twitter>NA</twitter>
+		<videoByFans>NA</videoByFans>
+		<albums>
+			<albumXMLPath>NA</albumXMLPath>
+		</albums>
+    </artist>
+    <artist artistId="4">
+    	<name>bratton</name>
+    	<logo>assets/bratton.jpg</logo>
+		<portfolio>Not available for bratton</portfolio>
+		<myspace>NA</myspace>
+		<facebook>NA</facebook>
+		<twitter>NA</twitter>
+		<videoByFans>NA</videoByFans>
+		<albums>
+			<albumXMLPath>NA</albumXMLPath>
+		</albums>
+    </artist>
+    <artist artistId="5">
+    	<name>beesly</name>
+    	<logo>assets/beesly.jpg</logo>
+		<portfolio>Not available for beesly</portfolio>
+		<myspace>NA</myspace>
+		<facebook>NA</facebook>
+		<twitter>NA</twitter>
+		<videoByFans>NA</videoByFans>
+		<albums>
+			<albumXMLPath>NA</albumXMLPath>
+		</albums>
+    </artist>
+    <artist artistId="6">
+    	<name>kapoor</name>
+    	<logo>assets/kapoor.jpg</logo>
+		<portfolio>Not available for kapoor</portfolio>
+		<myspace>NA</myspace>
+		<facebook>NA</facebook>
+		<twitter>NA</twitter>
+		<videoByFans>NA</videoByFans>
+		<albums>
+			<albumXMLPath>NA</albumXMLPath>
+		</albums>
+    </artist>
+    <artist artistId="7">
+    	<name>martin</name>
+    	<logo>assets/martin.jpg</logo>
+		<portfolio>Not available for martin</portfolio>
+		<myspace>NA</myspace>
+		<facebook>NA</facebook>
+		<twitter>NA</twitter>
+		<videoByFans>NA</videoByFans>
+		<albums>
+			<albumXMLPath>NA</albumXMLPath>
+		</albums>
+    </artist>
+    <artist artistId="8">
+    	<name>scott</name>
+    	<logo>assets/scott.jpg</logo>
+		<portfolio>Not available for scott</portfolio>
+		<myspace>NA</myspace>
+		<facebook>NA</facebook>
+		<twitter>NA</twitter>
+		<videoByFans>NA</videoByFans>
+		<albums>
+			<albumXMLPath>NA</albumXMLPath>
+		</albums>
+    </artist>
+</PIR>
